@@ -1,4 +1,6 @@
-# prachi15070
+📫 Connect With Me
+<p align="center"> <a href="https://github.com/prachi150705"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/prachi-yadav-bb74a5381/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://instagram.com/yprachiyadav15"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="mailto:prachiyadav150705@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<h3 align="center"> ✨ "Design is not just what it looks like — it's how it makes people feel." </h3> <p align="center"> ⭐ Thanks for visiting my profile! </p> ```# prachi15070
 <h1 align="center">Hi 👋, I'm Prachi Yadav</h1>
 <h3 align="center">Creative graphic design projects, social media creatives & UI/UX designs</h3>
 
