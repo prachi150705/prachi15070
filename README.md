@@ -1,7 +1,95 @@
+
+## ✨ About Me
+
+🎨 **Creative mind. Technical background. Design-driven thinking.**
+
+I'm **Prachi Yadav**, a Computer Science student who loves turning ideas into **clean visuals, engaging interfaces, and meaningful digital experiences**.
+
+My journey sits at the intersection of **Design × Technology × Creativity**. I enjoy creating everything from social media creatives and brand visuals to UI/UX interfaces and technology-driven projects.
+
+💡 **What I love creating**
+
+* 🎨 Creative & Social Media Designs
+* 🖥️ UI/UX & Web Interfaces
+* ✨ Branding & Visual Identity
+* 📱 Digital Campaign Creatives
+* 🤖 AI & Technology Projects
+* 📊 Data & Analytical Projects
+
+🌱 **Currently exploring:** Advanced Graphic Design, UI/UX, Figma, Adobe Creative Tools, Frontend Development, Data Analytics & AI/ML.
+
+🚀 **My goal:** Build digital experiences that are not only visually beautiful, but also **useful, intuitive and memorable.**
 📫 Connect With Me
 <p align="center"> <a href="https://github.com/prachi150705"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/prachi-yadav-bb74a5381/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://instagram.com/yprachiyadav15"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="mailto:prachiyadav150705@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 <h3 align="center"> ✨ "Design is not just what it looks like — it's how it makes people feel." </h3> <p align="center"> ⭐ Thanks for visiting my profile! </p> ```# prachi15070
-<h1 align="center">Hi 👋, I'm Prachi Yadav</h1>
+<h1 align="center">Hi 👋, I'm Prachi Y## 🧩 Tech Stack
+
+### 🎨 Design & Creative
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,canva" />
+</p>
+
+`Graphic Design` • `UI/UX` • `Branding` • `Social Media Design` • `Visual Storytelling`
+
+---
+
+### 💻 Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js" />
+</p>
+
+`Python` • `Java` • `C++` • `HTML5` • `CSS3` • `JavaScript`
+
+---
+
+### 📊 Data & Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+`SQL` • `MySQL` • `MongoDB` • `Data Analytics`
+
+---
+
+### 🤖 AI & Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+</p>
+
+`Machine Learning` • `Computer Vision` • `AI Projects` • `Python`
+
+---
+
+### 🛠️ Tools & Workflow
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+`Git` • `GitHub` • `VS Code` • `Canva` • `Figma`
+
+---
+
+### 🌐 Creative + Tech
+
+```text
+       🎨 DESIGN
+          ↓
+      ✨ CREATIVITY
+          ↓
+       🖥️ UI/UX
+          ↓
+      💻 TECHNOLOGY
+          ↓
+       🤖 AI / DATA
+          ↓
+     🚀 DIGITAL EXPERIENCES
+```
+adav</h1>
 <h3 align="center">Creative graphic design projects, social media creatives & UI/UX designs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachi150705&label=Profile%20views&color=0e75b6&style=flat" alt="prachi150705" /> </p>
